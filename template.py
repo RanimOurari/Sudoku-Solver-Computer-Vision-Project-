@@ -1,15 +1,3 @@
-
-
-###################################################################################################
-#                                    CV Assignment 1                                              #                                           
-#                                                                                                 #
-#                                     Ranim OURARI                                                #
-#                             Registration Nbre: 23-105-067                                       #
-###################################################################################################
-
-
-
-
 from frontalization import find_contours, find_corners, find_edges, frontalize_image, gaussian_blur, get_max_contour, highlight_edges
 from pipeline import Pipeline
 import numpy as np
