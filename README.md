@@ -16,18 +16,16 @@ Only the image processing and digit recognition pipelines were implemented by me
 ## Technologies & Libraries
 
 * **Python**
-* **OpenCV** — image preprocessing, contour detection
-* **scikit-image** — thresholding, filters
-* **NumPy** — numerical operations
-* **matplotlib** — visualization and debugging
+* **OpenCV:** image preprocessing, contour detection
+* **scikit-image:** thresholding, filters
+* **NumPy:** numerical operations
+* **matplotlib:** visualization and debugging
 
 ## Implementation Structure
 
-* `frontalization.py` — grid detection, perspective correction, preprocessing
-* `recognition.py` — digit extraction, template matching, digit classification
-* `template.py` — creation and management of digit templates
-
-Code was written strictly within the instructor-provided placeholders.
+* `frontalization.py` grid detection, perspective correction, preprocessing
+* `recognition.py` digit extraction, template matching, digit classification
+* `template.py` creation and management of digit templates
 
 ## Features
 
